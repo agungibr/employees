@@ -1,0 +1,11 @@
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.csproj.AssemblyReference.cache
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.Employee.resources
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.Properties.Resources.resources
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.csproj.GenerateResource.cache
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.csproj.CoreCompileInputs.cache
+C:\Users\agung\source\repos\pegawai\pegawai\bin\Debug\mydb.mdb
+C:\Users\agung\source\repos\pegawai\pegawai\bin\Debug\pegawai.exe.config
+C:\Users\agung\source\repos\pegawai\pegawai\bin\Debug\pegawai.exe
+C:\Users\agung\source\repos\pegawai\pegawai\bin\Debug\pegawai.pdb
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.exe
+C:\Users\agung\source\repos\pegawai\pegawai\obj\Debug\pegawai.pdb

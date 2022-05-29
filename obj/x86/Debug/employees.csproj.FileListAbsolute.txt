@@ -1,0 +1,5 @@
+C:\Users\agung\source\repos\pegawai\obj\x86\Debug\employees.csproj.AssemblyReference.cache
+C:\Users\agung\source\repos\pegawai\obj\x86\Debug\pegawai.Employee.resources
+C:\Users\agung\source\repos\pegawai\obj\x86\Debug\employees.pegawai.Properties.Resources.resources
+C:\Users\agung\source\repos\pegawai\obj\x86\Debug\employees.csproj.GenerateResource.cache
+C:\Users\agung\source\repos\pegawai\obj\x86\Debug\employees.csproj.CoreCompileInputs.cache
